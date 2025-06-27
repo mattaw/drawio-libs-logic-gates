@@ -1,0 +1,25 @@
+<!--SPDX-License-Identifier: Apache-2.0-->
+<!--Copyright Purdue University and Professor Matthew Swabey 2025-->
+<shape aspect="fixed" h="50" name="AND" strokewidth="inherit" w="80">
+  <connections>
+    <constraint name="in1" perimeter="0" x="0" y="0.2"/>
+    <constraint name="in2" perimeter="0" x="0" y="0.4"/>
+    <constraint name="in0" perimeter="0" x="0" y="0.5"/>
+    <constraint name="in3" perimeter="0" x="0" y="0.6"/>
+    <constraint name="in4" perimeter="0" x="0" y="0.8"/>
+    <constraint name="out" perimeter="0" x="1" y="0.5"/>
+  </connections>
+  <background>
+    <path>
+      <move x="0" y="0"/>
+      <line x="55" y="0"/>
+      <arc large-arc-flag="0" rx="25" ry="25" sweep-flag="1" x="55" x-axis-rotation="0" y="50"/>
+      <line x="0" y="50"/>
+      <close/>
+    </path>
+  </background>
+  <foreground>
+    <fillstroke/>
+    <stroke/>
+  </foreground>
+</shape>

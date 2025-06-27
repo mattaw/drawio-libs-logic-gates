@@ -1,0 +1,32 @@
+<!--SPDX-License-Identifier: Apache-2.0-->
+<!--Copyright Purdue University and Professor Matthew Swabey 2025-->
+<shape aspect="fixed" h="50" name="XOR" strokewidth="inherit" w="80">
+  <connections>
+    <constraint name="in1" perimeter="0" x="0.089" y="0.2"/>
+    <constraint name="in2" perimeter="0" x="0.127" y="0.4"/>
+    <constraint name="in0" perimeter="0" x="0.132" y="0.5"/>
+    <constraint name="in3" perimeter="0" x="0.127" y="0.6"/>
+    <constraint name="in4" perimeter="0" x="0.089" y="0.8"/>
+    <constraint name="out" perimeter="0" x="1.000" y="0.5"/>
+  </connections>
+  <background>
+    <path>
+      <move x="10" y="0"/>
+      <line x="20" y="0"/>
+      <arc large-arc-flag="0" rx="63" ry="40" sweep-flag="1" x="80" x-axis-rotation="0" y="25"/>
+      <arc large-arc-flag="0" rx="63" ry="40" sweep-flag="1" x="20" x-axis-rotation="0" y="50"/>
+      <line x="10" y="50"/>
+      <arc large-arc-flag="0" rx="35" ry="35" sweep-flag="0" x="10" x-axis-rotation="0" y="0"/>
+      <close/>
+    </path>
+  </background>
+  <foreground>
+    <fillstroke/>
+    <stroke/>
+    <path>
+      <move x="0" y="50"/>
+      <arc large-arc-flag="0" rx="35" ry="35" sweep-flag="0" x="0" x-axis-rotation="0" y="0"/>
+    </path>
+    <stroke/>
+  </foreground>
+</shape>
