@@ -1,0 +1,21 @@
+<!--SPDX-License-Identifier: Apache-2.0-->
+<!--Copyright Purdue University and Professor Matthew Swabey 2025-->
+<shape aspect="fixed" w="20" h="10" name="Signal Ground" strokewidth="inherit">
+  <connections>
+    <constraint name="gnd" perimeter="0" x="0.5" y="0"/>
+  </connections>
+  <background>
+    <linejoin join="round"/>
+    <linecap cap="round"/>
+
+    <path>
+      <move x="0" y="0"/>
+      <line x="20" y="0"/>
+      <line x="10" y="10"/>
+      <close/>
+    </path>
+    <fillstroke/>
+  </background>
+  <foreground>
+  </foreground>
+</shape>

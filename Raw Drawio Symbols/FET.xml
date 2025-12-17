@@ -1,0 +1,30 @@
+<!--SPDX-License-Identifier: Apache-2.0-->
+<!--Copyright Purdue University and Professor Matthew Swabey 2025-->
+<shape aspect="fixed" w="20" h="40" name="FET" strokewidth="inherit">
+  <connections>
+    <constraint name="gate" perimeter="0" x="0" y="0.5"/>
+    <constraint name="source_drain" perimeter="0" x="1" y="0"/>
+    <constraint name="drain_source" perimeter="0" x="1" y="1"/>
+  </connections>
+  <background>
+  </background>
+  <foreground>
+    <linejoin join="round"/>
+    <linecap cap="round"/>
+
+    <path>
+      <move x="0" y="0"/>
+      <line x="0" y="40"/>
+    </path>
+    <stroke/>
+
+    <path>
+      <move x="20" y="0"/>
+      <line x="10" y="0"/>
+      <line x="10" y="40"/>
+      <line x="20" y="40"/>
+    </path>
+    <stroke/>
+
+  </foreground>
+</shape>

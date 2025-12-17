@@ -1,27 +1,27 @@
 <mxlibrary>[
   {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"shape=stencil(nZTdbsMgDIWfhtsphWbqbUW3y70DS5zGagIR0LV7+9E4lYLSoAwpEvIxOZ8xP0xI16oBGC+UG6DyTJwY5w3eoQ5jkFtSyoJCrXog5fh1Isl5ay5ww9pPc1G3YNFT9jb/X3yw4hjExydkZbQOSDTaRZlZPngr1D4Co96R9RAoPXiwpE8V3qPod4reOMWMf/6PxTNY+0xWkcEqM1kig/WeydpnsA5ZLHP1G1i7bT0UMihrh1TIb1VdztZcdf2ywkE97sMi8Uz35gdWV59a+9OgQz0zKGMHnjwWry1ih3JTEVVnHCS2KeiLPozqSvOEbIyFRFcb7Dp6cBLU1QkjekEYVXoGR+EP);whiteSpace=wrap;html=1;strokeWidth=2;linejoin=round;fillColor=none;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"shape=stencil(rVTLboMwEPwaXyuChXpOaXPsJe0HuLAp28Dasp0m/fsumLSxghGNKiGsmfHOrB8gZOkaZUDkmXIGKi/ko8jzHZ6g5pHpY2CKLMAmhqQ6CMzD60bkmxeLzisPQXXe6j0csfZjGVIDFn2vyieRrXlO/8iy0kScjppcpFzobKaQfBSKNPZh2LYDDzbwI3uK0NeI7oqAud2/ZOmDX5C1+pcsoOcl6zq7/6Tlt8Ztb4q7T8TJkpnUkcryTVX7d6sPVE822SLBh0ZiNAxDWJg+u7i+rlKGQf9eWmVUfzmvhLPc6U9I3qQ558uufg2K2GH+vKYtYodiURNVqx3MbALziX2Q5Q7bNnzIqZNOnCeXaguTAhddaQMbfkYD8Q0=);whiteSpace=wrap;html=1;strokeWidth=2;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 50,
     "h": 50,
     "aspect": "fixed",
-    "title": "Buffer"
+    "title": "Buffer / Tristate"
   },
   {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"shape=stencil(vZXBboQgEIafxqMbBN3aY2Pba5O+AXXHlayCAbbaty8rmKi7GsqhiYnwD8w3MzAhIoWqaQcRRlR1UOqIvEYYV2yAk/kbubZKhuyU0xas8vFpFaWluEDPTtotZbwGybS19lbLx+3kLUIvRrx9pCgF54bIBFcLy8xufFPG9YLLeGJdd4bSggZpdRfg4GYHlD9b5WdSsJ1H+P1vPOzFS/DTipcG8pAfj+AVLwvkkcD8joG8NPD88iCeuGoPXnJACPnVkxRG2bq8pPii5eUsxZWfHkbZ0Vuf3Bkmcyu+YVaFZUR7+U8OGsZnDkI8UFmaQUPlGWIzjquGnhfbpXN+dBdHOu+ps6seoJttSxaVzqfCx3RgKpZC01sZHyWMd2/0P8WL/ePNAk4oxIN3xiRbZjzN1xmves87Ya9oy0Yo2Olbo981xahudBIpKiFhp8Uq1jT2Vdqhbi4Y0XeEUbVP5Sj8Ag==);whiteSpace=wrap;html=1;strokeWidth=2;linejoin=round;fillColor=none;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"80\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
-    "w": 80,
-    "h": 50,
-    "aspect": "fixed",
-    "title": "OR"
-  },
-  {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"shape=stencil(nZTdjoMgEIWfhks3CnXT28buXu47sDoqKQIButq3XxRNJFbTkpjInIHzMfwhUpiWKkA4pUZBaRG5IoxrNkDl/k5uvZKnPhS0A69cfq5eMlbLG/SssnNfJlrQzPps77XzNJ58ofTixPEjRSmFcEgmhQkyq7zzpkzYAMxE5q2Vo3RgQXt9nuEQRI85+sA+Rvj7PRaOYJ0iWWkEK49kkQjWZyTrFME6R7Hk3b7Ayl5bQ1I4Ze+QkuKXlrdGy7uons5Q0fE+bBJLupN/sFv9Ue2LAWdiZZDn7ztQXboGp7qBxLWTmtMmGK5nczyb60cYmx5ArYZlwSovUxoSOjCTaGnpuIzPCs4jKo5xKLk0cHCqnL7Ztknd2WtS1FLDwSGoGef+fTyg7naY0BvCpPpXexL+AQ==);whiteSpace=wrap;html=1;strokeWidth=2;linejoin=round;fillColor=none;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"80\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"shape=stencil(nVXRjoMgEPwaH70o1EtfG3v3eP/A4apcLRigp/37W4XmNFVjSYwys+zMwqJGNDc1ayEiCTMtcBvRc0RIKXoo8Il055hj4mDtYOahZFdwzOnr7ChjtbpAJwrr5wpZgxZ2iNKPKDnhnOGiOVdSoqVQ0swikziKMSHtzEnI1Dm1KHsFC9rxvqR+hu4evRGHI/L5mhcJ8DoEeiUBXlmgFw3weg/0OgR4HYO81M3u8Er37SHNkVk7pDT/ZvxSaXWTxWKFjZDwo4REND5GLzd9c2VDHmctguG+N6tlw+v2FHiEr+oXVvd6S3la1b9Alr2uwDTHQcN0BTGO47Jh1Sxde3HixfV9jk0H0E7S0llPHyX1MeuFibWybGja0oKzgBWHKPBGGdjoGfIrbaN5KZrGfUnXDubK8cNUpWExgElPsZF1v4CR+AM=);whiteSpace=wrap;html=1;strokeWidth=2;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"80\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 80,
     "h": 50,
     "aspect": "fixed",
     "title": "AND"
   },
   {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"shape=stencil(zVZdb4MgFP01PtogaOceF7e9Ltk/YHptSS0YoGv374eCidrWUrIsTUyEc7nn3A9uNCKF2tIWIoyoaqHUEXmNMK7ZCSrzNvDWIhmyW073YJGPT4soLcUOjqzS7ijjW5BMW+vRYnnvTt4i9GLA7iFFKTg3ikxwNbGM7IabMq4nuownlro1KnvQIC3uAjy53Qrlzxb5GRBs9xF+v08Pe+kl+GmmlwbqIT89gmd6WaAeCcxvHaiXBvYvD9ITB+2hl6wQQn71JIVBrl1eUnzRcreR4sCri1G2tJuTM8Ng3otvGEU1C2mpAANDw/iIAQcwUFmaRUPlBmKzjuuGbibu0pGv3c2Rjj11dnUEaEduyaTU+VD5mJ6YiqXQtKvjRMER4sUr/U/xYv94s4AOJSEU3imTbJrysJ+nPJsG/5S9wi0boWBhdA1+Nhc9emWYSFELCQtTVrOmsR+mBdWbB+6a1Qds4x918XJ/blaxdzvrU4/af44e+AU=);whiteSpace=wrap;html=1;strokeWidth=2;fillStyle=solid;linejoin=round;linecap=round;fillColor=none;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"80\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"shape=stencil(vVXBcoMgEP0aj2YQYpoeO7a9dqZ/QM0moTHgAGns33cVnKqJDuXQGUfZt+y+fcBKwgpz5DUklHBTQ2kT9pxQuhcN7PCL8NUhW+LMozNzb0p+Boe8vTvEWK1OcBU766cKeQQtbOtlLwl5wjntw4pSSYmMQkkz8gz8mIwLaUdEQmaOqca0Z7CgHe4rary1IttHh3z3CHV2Ql//xkeD+DL6MOFbR/KRMD5GJ3x5JB+L1LeJ5FtH7t82ik9dbABftiKEhK0nKxCZO7ys+ODl6aDVRe7uVlkJCZ9KSLS6T8flpi+qa+NKXqPRvkOjat624Y2jd5/VFwzWfKx/KfOwqt8EMRm4LnFQcX2AFMfpvuKHUbj2yTf+mGqffe395gpQD8Ky0b72/60m5Y0wqVaWt5t2TzBd7J9/qpeG15tH7FBMhmDFLB8r7u2p4kmnBwsOqraslIGFjkB8pilYsRdV5e6vubafaW4MVRruOjDoxteh7t7tgB8=);whiteSpace=wrap;html=1;strokeWidth=2;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"80\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 80,
+    "h": 50,
+    "aspect": "fixed",
+    "title": "OR"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"shape=stencil(1VZRT4MwEP41PLKUdsz5aFBfTXzytcJtq2MtaTvBf2+hJQITUhuzaEKA+673fXe9HltEMnWgFUQYUVVBriNyH2G8Yw0U5mng2iJbZM2DNVNncnoCi7w8PVtIaSmOULNCu7WMH0Ay3XrJQ4TuzJr2IlkuODeSTHA18gz8howyrkdKjCdWqTK0J9AgLe5Sapy1Qttbi3z0CLZ2hB9/poe99BJ8M9FbB+ohPz2CJ3ppoB4JrG8TqLcO7N82SE+ctYdeskII+e0nyQwyd3hJ9krz416KMy++zbJkHN4E48bqHp2WXb5YXRuX08oY7d03qqLtGF44evdJvMNgDyYbsEQ9TOuLAQcwUJmbl5LKPcTmPd6VdD8Kl458486pdOxr51c1QDUIS0aN7b9cTUwbpmIpNG27NlJwhHhxgK6UL/bPNw3oUBJC4V0ySccl9/a05Mns+ZfslW5eCgULQ2Hwmbkg2Y6Vpf0Jm5v8mfk2oULC/xz8P3gmfulILDd7udEX/exQ+3+pAz4B);whiteSpace=wrap;html=1;strokeWidth=2;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"80\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 80,
     "h": 50,
     "aspect": "fixed",
@@ -35,25 +35,11 @@
     "title": "MUX"
   },
   {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"\" style=\"shape=stencil(nZTdbsMgDIWfhtsphWbqbUW3y70DS5zGagIR0LV7+9E4lYLSoAwpEvIxOZ8xP0xI16oBGC+UG6DyTJwY5w3eoQ5jkFtSyoJCrXog5fh1Isl5ay5ww9pPc1G3YNFT9jb/X3yw4hjExydkZbQOSDTaRZlZPngr1D4Co96R9RAoPXiwpE8V3qPod4reOMWMf/6PxTNY+0xWkcEqM1kig/WeydpnsA5ZLHP1G1i7bT0UMihrh1TIb1VdztZcdf2ywkE97sMi8Uz35gdWV59a+9OgQz0zKGMHnjwWry1ih3JTEVVnHCS2KeiLPozqSvOEbIyFRFcb7Dp6cBLU1QkjekEYVXoGR+EP);whiteSpace=wrap;html=1;flipH=1;fillColor=none;strokeWidth=2;linejoin=round;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"\" style=\"shape=stencil(nZTdbsMgDIWfhtsphWbqbUW3y70DS5zGagIR0LV7+9E4lYLSoAwpEvIxOZ8xP0xI16oBGC+UG6DyTJwY5w3eoQ5jkFtSyoJCrXog5fh1Isl5ay5ww9pPc1G3YNFT9jb/X3yw4hjExydkZbQOSDTaRZlZPngr1D4Co96R9RAoPXiwpE8V3qPod4reOMWMf/6PxTNY+0xWkcEqM1kig/WeydpnsA5ZLHP1G1i7bT0UMihrh1TIb1VdztZcdf2ywkE97sMi8Uz35gdWV59a+9OgQz0zKGMHnjwWry1ih3JTEVVnHCS2KeiLPozqSvOEbIyFRFcb7Dp6cBLU1QkjekEYVXoGR+EP);whiteSpace=wrap;html=1;flipH=0;fillColor=none;strokeWidth=2;linejoin=round;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"5\" value=\"\" style=\"ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fillColor=none;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"20\" y=\"38\" width=\"10\" height=\"10\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"6\" value=\"\" style=\"shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;strokeColor=none;strokeWidth=0.25;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"15\" y=\"2\" width=\"20\" height=\"20\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
-    "w": 50,
-    "h": 50,
-    "aspect": "fixed",
-    "title": "Transmission Gate"
-  },
-  {
     "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry width=\"60\" height=\"80\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"D\" style=\"text;align=left;verticalAlign=middle;rounded=0;fontFamily=Noto Sans Mono;fontSize=18;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"5\" y=\"5\" width=\"20\" height=\"30\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"Q\" style=\"text;align=right;verticalAlign=middle;rounded=0;fontFamily=Noto Sans Mono;fontSize=18;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"35\" y=\"5\" width=\"20\" height=\"30\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"5\" value=\"Q\" style=\"text;align=right;verticalAlign=middle;rounded=0;fontFamily=Noto Sans Mono;fontSize=18;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"35\" y=\"45\" width=\"20\" height=\"30\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"6\" value=\"\" style=\"rounded=0;fontFamily=Noto Sans Mono;fontSize=18;fillColor=none;strokeWidth=2;fillStyle=solid;linejoin=round;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"60\" height=\"80\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"7\" value=\"\" style=\"endArrow=none;rounded=0;labelBackgroundColor=none;curved=0;linecap=round;fontFamily=Noto Sans Mono;fontSize=18;strokeWidth=2;\" edge=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"65\" as=\"sourcePoint\"/&gt;&lt;mxPoint y=\"55\" as=\"targetPoint\"/&gt;&lt;Array as=\"points\"&gt;&lt;mxPoint x=\"10\" y=\"60\"/&gt;&lt;/Array&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"8\" value=\"\" style=\"endArrow=none;rounded=0;fontFamily=Noto Sans Mono;fontSize=18;fontColor=default;exitX=0.5;exitY=0.167;exitDx=0;exitDy=0;exitPerimeter=0;\" edge=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"41\" y=\"51.00999999999999\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"53.49000000000001\" y=\"51\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 60,
     "h": 80,
     "aspect": "fixed",
     "title": "D-Type Flip-Flop"
-  },
-  {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fillColor=none;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"10\" height=\"10\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
-    "w": 10,
-    "h": 10,
-    "aspect": "fixed",
-    "title": "Input/Output Invert"
   },
   {
     "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"endArrow=none;html=1;rounded=0;labelBackgroundColor=none;curved=0;linecap=round;strokeWidth=2;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"10\" as=\"sourcePoint\"/&gt;&lt;mxPoint as=\"targetPoint\"/&gt;&lt;Array as=\"points\"&gt;&lt;mxPoint x=\"10\" y=\"5\"/&gt;&lt;/Array&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
@@ -63,10 +49,10 @@
     "title": "Edge-Triggered Input"
   },
   {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry width=\"20\" height=\"40\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"\" style=\"endArrow=none;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Noto Sans Mono;fontSize=28;fontColor=default;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;strokeWidth=2;\" edge=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"20\" y=\"40\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"20\" as=\"targetPoint\"/&gt;&lt;Array as=\"points\"&gt;&lt;mxPoint x=\"10\" y=\"40\"/&gt;&lt;mxPoint x=\"10\"/&gt;&lt;/Array&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"\" style=\"endArrow=none;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Noto Sans Mono;fontSize=28;fontColor=default;labelBackgroundColor=none;strokeWidth=2;linecap=round;\" edge=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"40\" as=\"sourcePoint\"/&gt;&lt;mxPoint as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"5\" value=\"\" style=\"rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=none;strokeWidth=1;strokeColor=none;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"20\" height=\"40\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
-    "w": 20,
-    "h": 40,
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"shape=stencil(nVPBboMwDP2aXCcg2gesrJN22aWHHacA7vCaOlFI1/bvZzCTlhUqWikieu/FfrFjlC671nhQRWY6D3VU+lkVxRZP0PDO9FGYPBPYppDMHoR5pW8I8WN1qCoLInYxuB0csYljFFILAWOv6rXKnvhMv3RZOyI2R0ddovzROZlBionnm/h4TrqHCEHY8WqnET08Cj4nqipebnHa3OGU3+W0XuCUpxX9+t7o9L6kpmVOumRm7hF1WZl69xncgZrJ+1kk+HJIjIZt8JLjV+vq42rjGfTfpVFgLfoOLmf536RPd+B67i1aK1M/16SZVnCoCzApcNCFNrDy4w7EDw==);whiteSpace=wrap;html=1;strokeWidth=2;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"10\" height=\"10\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 10,
+    "h": 10,
     "aspect": "fixed",
-    "title": "FET"
+    "title": "Input/Output Invert"
   }
 ]</mxlibrary>

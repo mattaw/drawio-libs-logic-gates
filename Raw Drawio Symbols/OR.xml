@@ -1,6 +1,6 @@
 <!--SPDX-License-Identifier: Apache-2.0-->
 <!--Copyright Purdue University and Professor Matthew Swabey 2025-->
-<shape aspect="fixed" h="50" name="OR" strokewidth="inherit" w="80">
+<shape aspect="fixed" w="80" h="50" name="OR" strokewidth="inherit">
   <connections>
     <constraint name="in1" perimeter="0" x="0.089" y="0.2"/>
     <constraint name="in2" perimeter="0" x="0.127" y="0.4"/>
@@ -10,6 +10,9 @@
     <constraint name="out" perimeter="0" x="1.000" y="0.5"/>
   </connections>
   <background>
+    <linejoin join="round"/>
+    <linecap cap="round"/>
+
     <path>
       <move x="0" y="0"/>
       <line x="20" y="0"/>
@@ -19,9 +22,9 @@
       <arc large-arc-flag="0" rx="35" ry="35" sweep-flag="0" x="0" x-axis-rotation="0" y="0"/>
       <close/>
     </path>
+    <fillstroke/>
+
   </background>
   <foreground>
-    <fillstroke/>
-    <stroke/>
   </foreground>
 </shape>

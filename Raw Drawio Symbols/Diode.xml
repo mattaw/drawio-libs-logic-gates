@@ -1,24 +1,29 @@
 <!--SPDX-License-Identifier: Apache-2.0-->
 <!--Copyright Purdue University and Professor Matthew Swabey 2025-->
-<shape aspect="fixed" w="50" h="50" name="BUF/Tristate" strokewidth="inherit">
+<shape aspect="fixed" w="20" h="20" name="Diode" strokewidth="inherit">
   <connections>
-    <constraint name="in0" perimeter="0" x="0" y="0.5"/>
+    <constraint name="in" perimeter="0" x="0" y="0.5"/>
     <constraint name="out" perimeter="0" x="1" y="0.5"/>
-    <constraint name="enN" perimeter="0" x="0.5" y="0.25"/>
-    <constraint name="enS" perimeter="0" x="0.5" y="0.75"/>
   </connections>
   <background>
+  </background>
+  <foreground>
     <linejoin join="round"/>
     <linecap cap="round"/>
 
     <path>
       <move x="0" y="0"/>
-      <line x="50" y="25"/>
-      <line x="0" y="50"/>
+      <line x="20" y="10"/>
+      <line x="0" y="20"/>
       <close/>
     </path>
     <fillstroke/>
-  </background>
-  <foreground>
+
+    <path>
+      <move x="20" y="0"/>
+      <line x="20" y="20"/>
+    </path>
+    <stroke/>
+
   </foreground>
 </shape>
