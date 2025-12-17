@@ -1,6 +1,9 @@
 # drawio-libs-logic-gates
 A custom, on-grid library of logic gates for draw.io. Gates have one input to five inputs on grid.
 
-# Copyright Purdue University 2025 and Professor Matthew Swabey
+Designed for a diagram grid size of 5pt. Click on the blank page to access the "Diagram" sidebar.
+Set grid from 10pt to 5pt.
 
-# License Apache 2.0
+## Copyright Purdue University 2025 and Professor Matthew Swabey
+
+## License Apache 2.0
